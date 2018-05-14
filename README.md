@@ -15,10 +15,22 @@ Thanks to [dcrutgers](https://dcrutgers.deviantart.com/), [DanielP](https://gith
 	- [Rainmeter Support](https://marketplace.visualstudio.com/items?itemName=will-shaw.ws-rainmeter)
 	- [REST Client](https://marketplace.visualstudio.com/items?itemName=humao.rest-client)
 
-# Related Links
+# Related links
 
 - https://github.com/Duwaynef/Sonarr-RainMeter
 - https://github.com/DanielPiccoli/rainmeter-nzbget
 - https://github.com/nskillen/rainmeter-nzbget
 - https://dcrutgers.deviantart.com/gallery/
 - https://forums.sonarr.tv/t/rainmeter-sonarr-plugin-next-episodes-w-series-banners/6802
+
+# Other awesome links
+
+- [Rainmeter](https://www.rainmeter.net/)
+- [Rainmeter Github](https://github.com/rainmeter)
+- [Rainmeter Subreddit](https://www.reddit.com/r/Rainmeter)
+- [RainRegExp WebParser Regular Expression Debugging Tool](https://docs.rainmeter.net/tips/webparser-debugging-regexp/#RainRegExp)
+- [Rainmeter Tutorial by Mandy on Victorious Attitude](https://www.victoriousattitude.com/rainmeter-tutorial/)
+- [Aiden Drew's Blog](http://rainmeterdesk.blogspot.com.au/)
+- [Rainmeter on Deviant Art](https://rainmeter.deviantart.com)
+- [Rainmeter Global on Deviant Art](https://rainmeterglobal.deviantart.com/)
+- [RainmeterHub](http://rainmeterhub.com/)
