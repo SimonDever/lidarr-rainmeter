@@ -1,0 +1,12 @@
+
+@key = &apikey=0c4fe307765a206e216fe194e0ad9e0a
+@root = http://localhost:8686/api/v1/
+@calendar = calendar?start={{start}}&end={{end}}&includeArtist=true
+@start = 2018-05-13
+@end = 2018-12-31
+
+###
+
+GET {{root}}{{calendar}}{{key}}
+
+###
