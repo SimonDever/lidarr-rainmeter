@@ -25,6 +25,8 @@ Thanks to [dcrutgers](https://dcrutgers.deviantart.com/), [DanielP](https://gith
 
 # Other awesome links
 
+- [Lidarr](http://lidarr.audio/)
+- [Lidarr Github](https://github.com/lidarr/Lidarr)
 - [Rainmeter](https://www.rainmeter.net/)
 - [Rainmeter Github](https://github.com/rainmeter)
 - [Rainmeter Subreddit](https://www.reddit.com/r/Rainmeter)
