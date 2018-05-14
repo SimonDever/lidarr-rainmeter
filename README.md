@@ -4,6 +4,12 @@ Rainmeter skin to show upcoming music releases from Lidarr Calendar API with a v
 
 ![Screenshot](https://raw.githubusercontent.com/SimonDever/lidarr-rainmeter/master/screenshot.png)
 
+# Installation
+
+1. Download the latest `.rmskin` package from the [Releases page](https://github.com/SimonDever/lidarr-rainmeter/releases) and double click to install
+2. Update `Lidarr.ini` file with your Lidarr API key
+3. Select `Lidarr` from Rainmeter Skins menu to load
+
 # Credit
 
 Thanks to [dcrutgers](https://dcrutgers.deviantart.com/), [DanielP](https://github.com/DanielPiccoli), [nskillen](https://github.com/nskillen) and [DuwayneF](https://github.com/Duwaynef) for their original work on the Sonarr and NZBGet skins.
